@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['01098906252'] //ur owner number
-global.ownername = "Elgazar Alwazer" //ur owner name
-global.ytname = "YT: Elgazar" //ur yt chanel name
-global.socialm = "GitHub: Elgazae" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.vcardowner = ['201288455338'] //ur owner number
+global.ownername = "201288455338" //ur owner name
+global.ytname = "YT: Youssef-AlSoltan" //ur yt chanel name
+global.socialm = "Insta: @1y._.o2" //ur github or insta name
+global.location = "Egypt, Al Behera, Kafr Al dwar" //ur location
 
 //bot bomdy 
-global.owner = ['01098906252']
-global.ownertag = '01098906252' //ur tag number
-global.botname = 'Elgazar Bot MD V4' //ur bot name
-global.linkz = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtube.com/channel/UCxVaIay8BccgBtsofagA6_g" //ur website to be displayed
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD' //script link
-global.reactmoji = "😘" //ur menu react emoji
-global.themeemoji = "🦄" //ur theme emoji
-global.packname = "الجزار الوزير يروحي💕" //ur sticker watermark packname
-global.author = "تع يحبي خد الباقي★01098906252★" //ur sticker watermark author
+global.owner = ['201288455338']
+global.ownertag = '201288455338' //ur tag number
+global.botname = 'بوت السلطان|bot alsoltan' //ur bot name
+global.linkz = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
+global.botscript = 'https://www.instagram.com/1y._.o2' //script link
+global.reactmoji = "😎" //ur menu react emoji
+global.themeemoji = "😍" //ur theme emoji
+global.packname = "By Youssef Al Soltan" //ur sticker watermark packname
+global.author = "By @201288455338" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
@@ -79,7 +79,7 @@ global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
 
 //damtabase
-global.premium = ['01098906252'] //ur premium numbers
+global.premium = ['201288455338'] //ur premium numbers
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -105,7 +105,7 @@ global.antitags = true
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'تم ✓',
     admin: 'هذه الميزة للمشرف فقط!',
     botAdmin: 'يجب أن يكون البوت مسؤولاً أولاً!',
     owner: 'هذه الميزة للمالك فقط!',
@@ -114,7 +114,7 @@ global.mess = {
     bot: 'هذه الميزة مخصصة للبوت فقط',
     wait: 'تحت المعالجة...',
     linkm: 'أين الرابط?',
-    error: 'Error!!',
+    error: 'خطأ!!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
     ban: 'You have been banned by the owner, if you want to be unbanned, chat owner.',
     nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
