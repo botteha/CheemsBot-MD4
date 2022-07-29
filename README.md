@@ -1,6 +1,6 @@
 
 
-<h1 align="center">𝑬𝑳𝑮𝑨𝒁𝑨𝑹 𝑩𝑶𝑻 𝗩4ꫂ<br></h1>
+<h1 align="center">BOT AL SOLTAN<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/865d80256cc0d533783e4.jpg" alt="animated" width="540" height="280" />
 </p>
