@@ -66,7 +66,7 @@ global.ownertag = '201288455338' //ur tag number
 global.botname = 'بوت السلطان|bot alsoltan' //ur bot name
 global.linkz = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtube.com/channel/UCf57gAihG_YlH7Rj-gbKuHA" //ur website to be displayed
-global.botscript = 'https://www.instagram.com/1y._.o2' //script link
+global.botscript = 'https://api.whatsapp.com/send?phone=+201288455338' //script link
 global.reactmoji = "😎" //ur menu react emoji
 global.themeemoji = "😍" //ur theme emoji
 global.packname = "By Youssef Al Soltan" //ur sticker watermark packname
